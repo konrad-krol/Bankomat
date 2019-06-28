@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1540479636 source:c:\users\konra.laptop-iont2303\desktop\szkola\programowanie aplikacyjne\projekt\projekt 2\projekt 2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<string>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+
+1540490991 source:c:\users\konra.laptop-iont2303\desktop\szkola\programowanie aplikacyjne\projekt\server\projekt 2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<string>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+
+1540590498 source:c:\users\konra.laptop-iont2303\desktop\szkola\programowanie aplikacyjne\projekt\client\projekt 2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<string>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<winsock2.h>
+	<cstdio>
+
+1541790215 source:c:\users\konra.laptop-iont2303\desktop\szkola\programowanie aplikacyjne\klient\projekt 2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<string>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<winsock2.h>
+	<cstdio>
+	<stdio.h>
+
