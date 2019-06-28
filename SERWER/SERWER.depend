@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1541789021 source:c:\users\konra.laptop-iont2303\desktop\szkola\programowanie aplikacyjne\serwer\main.cpp
+	<tchar.h>
+	<windows.h>
+	<string>
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<winsock2.h>
+
